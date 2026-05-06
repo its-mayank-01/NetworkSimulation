@@ -56,3 +56,11 @@ Upon running, the script simulates 60 seconds of network activity. It will outpu
 - `layer1_physical.py` to `layer7_application.py`: Implementation of each OSI layer's protocols and delays.
 - `config.py`: Centralized configuration (network parameters, QoS rules, physical layer settings).
 - `visualization.py` & `dashboard.py`: Analytical tools for static plots and interactive UI.
+
+
+**AUTHORS--**
+1.  Mayank Yadav
+2.  Rai Shrijal Anjani
+3.  Mayank Pratap Singh
+4.  Anubhav Kishor Anand
+5.  Manmath Ramachandra Mahajan
